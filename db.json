@@ -3,7 +3,7 @@
     {
       "name": "Lettuce",
       "color": "Green",
-      "type": "Vegitable",
+      "type": "Vegetable",
       "quantity": 1,
       "chilled": true,
       "id": 1
