@@ -1,12 +1,25 @@
 {
   "produce": [
     {
+      "name": "Banana",
+      "color": "Yellow",
+      "type": "Fruit",
+      "quantity": 12,
+      "chilled": false
+    },
+    {
       "name": "Lettuce",
       "color": "Green",
       "type": "Vegetable",
       "quantity": 1,
-      "chilled": true,
-      "id": 1
+      "chilled": true
+    },
+    {
+      "name": "Apple",
+      "color": "Red",
+      "type": "Fruit",
+      "quantity": 6,
+      "chilled": false
     }
   ]
 }
