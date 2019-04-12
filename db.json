@@ -5,21 +5,24 @@
       "color": "Yellow",
       "type": "Fruit",
       "quantity": 12,
-      "chilled": false
+      "chilled": false,
+      "id": 1
     },
     {
       "name": "Lettuce",
       "color": "Green",
       "type": "Vegetable",
       "quantity": 1,
-      "chilled": true
+      "chilled": true,
+      "id": 2
     },
     {
       "name": "Apple",
       "color": "Red",
       "type": "Fruit",
       "quantity": 6,
-      "chilled": false
+      "chilled": false,
+      "id": 3
     }
   ]
 }
